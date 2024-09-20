@@ -1,0 +1,3 @@
+[submodule "themes/custom/galti"]
+	path = themes/custom/galti
+	url = https://github.com/ajabhinavjha/mistake.git
